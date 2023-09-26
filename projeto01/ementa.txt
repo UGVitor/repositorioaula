@@ -1,0 +1,1 @@
+Objetivo da materia é aprender a usar git e github, e talvez docker
